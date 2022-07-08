@@ -26,3 +26,4 @@
 * [22. 访问者模式](chapter22/index.md)
 * [23. 迭代器模式(未实现)](chapter23/index.md)
 * [24. 适配器模式-对象](chapter24/index.md)
+* [25. 对象池模式](chapter25/index.md)
